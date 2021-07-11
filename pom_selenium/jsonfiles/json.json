@@ -1,0 +1,17 @@
+{
+  "browser" : "chrome",
+  "emailAddress" : "tanwar@gmail.com",
+  "firstName" : "Abhinav",
+  "lastName" : "Tanwar",
+  "password" : "tanwar@1",
+  "date" : "2",
+  "month" : "9",
+  "year" : "1998",
+  "address" : "aaaa",
+  "city" : "bbbb",
+  "state" : "3",
+  "postCode" : "195734",
+  "country" : "United States",
+  "phoneNum" : "1111333377",
+  "addressAlias" : "address"
+}
